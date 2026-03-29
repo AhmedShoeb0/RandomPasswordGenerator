@@ -1,14 +1,14 @@
-About project:
+About the Project:
 -
-Random Password Generator is an application that allows user to generate strong 
-passwords randomly that may contain alphabets, characters, digits or punctuation.
+Random Password Generator is an application that allows users to generate strong, random passwords. The passwords can include letters, numbers, symbols, and punctuation, providing high security for accounts and sensitive data.
 
 Features:
 -
--User can state the length of the password.
+- Allows the user to specify the length of the password.
 
--User has the ability to choose the combination of which the password could be generated.
+- Lets the user choose the types of characters to include (letters, numbers, symbols, etc.).
 
--User can copy the generated password easily to past it anywhere.
+- Features a user-friendly GUI for a smooth and intuitive experience.
 
--GUI is provided for better experience and ease of use.
+- Provides an easy way to copy the generated password for use elsewhere.
+
